@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetas>
+    <receta id="1">
+        <nombre>Tortilla de patata</nombre>
+        <categoria>Tradicional</categoria>
+        <tiempoPreparacion>15</tiempoPreparacion>
+        <dificultad>Fácil</dificultad>
+    </receta>
+    <receta id="2">
+        <nombre>Paella valenciana</nombre>
+        <categoria>Arroces</categoria>
+        <tiempoPreparacion>60</tiempoPreparacion>
+        <dificultad>Media</dificultad>
+    </receta>
+    <receta id="3">
+        <nombre>Gazpacho andaluz</nombre>
+        <categoria>Sopas</categoria>
+        <tiempoPreparacion>15</tiempoPreparacion>
+        <dificultad>Fácil</dificultad>
+    </receta>
+    <receta id="4">
+        <nombre>Tiramisú</nombre>
+        <categoria>Postres</categoria>
+        <tiempoPreparacion>45</tiempoPreparacion>
+        <dificultad>Media</dificultad>
+    </receta>
+</recetas>
